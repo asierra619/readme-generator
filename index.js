@@ -26,10 +26,10 @@ const questions = [
         message: 'Please provide instructions on how to use your application.',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'Please select which License you are using with this project.',
-        choices: ['None', 'MIT', 'Apache 2.0', 'GNU 2.0', 'BSD 2', 'BSD 3', 'Boost', 'Creative Commons', 'Eclpise 2.0']
+        choices: ['None', 'MIT', 'Apache 2.0', 'GNU 2.0', 'BSD 2', 'BSD 3', 'Boost', 'Creative Commons', 'Eclpise 2.0'],
     },
     {
         type: 'input',
