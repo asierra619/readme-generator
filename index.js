@@ -18,7 +18,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'Are there any dependencies for your project? If so, how can a user install them?',
+        message: 'Please provide the steps on how to install your program.',
     },
     {
         type: 'input',
