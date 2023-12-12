@@ -20,10 +20,10 @@ Link to Demonstration Video - https://drive.google.com/file/d/1LCMBaCm9XxqNiFbI1
 
 ![screenshot of intergrated terminal and created .md file](./assets/images/Screenshot%202023-12-11%20at%2010.13.00%20PM.png)
 
-## Credits
-
-Thank you to the following<br />Michael Pacheco - My Instructor<br />'dopecello' on GitHub/Youtube<br />Andreas from AskBCS
-
 ## License
 
 MIT
+
+## Credits
+
+Source Code Provided by EdX and UCSD Extended Studies<br />Thank you to the following -<br />Michael Pacheco - My Instructor<br />'dopecello' on GitHub/Youtube<br />Andreas from AskBCS
