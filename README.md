@@ -22,11 +22,7 @@ Link to Demonstration Video - https://drive.google.com/file/d/1LCMBaCm9XxqNiFbI1
 
 ## Credits
 
-Thank you to the following 
-
-Michael Pacheco - My Instructor
-'dopecello' on GitHub/Youtube
-Andreas from AskBCS
+Thank you to the following<br />Michael Pacheco - My Instructor<br />'dopecello' on GitHub/Youtube<br />Andreas from AskBCS
 
 ## License
 

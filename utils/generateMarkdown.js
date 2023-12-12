@@ -36,7 +36,7 @@ ${data.usage}
 ${data.license}
 
 ## Contributions
-Assisted by ${data.contributions}.
+Assisted by ${data.contributions}
 
 ## Tests
 ${data.tests}
